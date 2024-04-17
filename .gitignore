@@ -1,0 +1,4 @@
+.venv
+.DS_store
+game_info.csv
+hl2b-with-codes.py
